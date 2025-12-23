@@ -1,0 +1,27 @@
+.dashboard {
+    width: 800px;
+    margin: 40px auto;
+}
+
+.task-card {
+    padding: 15px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+
+.task-card {
+    background: #fff;
+    padding: 12px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.task-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.task-actions button {
+    cursor: pointer;
+}
